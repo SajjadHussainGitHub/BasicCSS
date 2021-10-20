@@ -18,3 +18,10 @@ label {
 .form {
   font-variant: small-caps;
 }
+#btn:hover {
+  background-color: red;
+  color: white;
+}
+label:hover {
+  text-decoration: overline;
+}
