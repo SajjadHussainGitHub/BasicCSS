@@ -1,3 +1,17 @@
 * {
   background-color: antiquewhite;
 }
+
+#btn {
+  color: red;
+  font-size: large;
+  background-color: white;
+}
+#search {
+  background-color: white;
+  font-size: large;
+}
+label {
+  font-size: larger;
+  color: darkcyan;
+}
